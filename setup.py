@@ -30,7 +30,7 @@ if __name__ == "__main__":
             'numpy==1.21.0',
             'scipy==1.6.3',
             'requests==2.25.1',
-            'biopython==1.76',
+            'biopython==1.79',
             'importmagic==0.1.7',
             'matplotlib==3.3.2',
             'tensorboard==2.5.0',
